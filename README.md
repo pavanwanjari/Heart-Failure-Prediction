@@ -33,3 +33,20 @@
 
 
 ### dataset link :- https://www.kaggle.com/datasets/andrewmvd/heart-failure-clinical-data?select=heart_failure_clinical_records_dataset.csv
+
+### Steps to follow:
+1. Import Libraries
+2. Import Dataset
+3. Data Exploration
+4. Exploratory Data Analysis (EDA)
+5. Data Visualization
+6. Data Cleaning (Removing Outliers)
+7. Feature Selection
+8. Model Building
+    * Logistic Regresssion
+    * Decision Tree 
+    * Random Forest Classifier
+    * Support Vector Machine
+    * Ada Boost Classifier
+    * Naive Bayes
+    * XG Boost Classifer
